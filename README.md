@@ -6,7 +6,8 @@ public class AboutMe {
   string lastName = "Rosiak";
   string email = "wojtekrosiak@outlook.com"
 
-  string[] languages = {"java", "python", "javascript", "c", "prolog"};
+  string[] languages = {"java", "python", "javascript", "typescript", "c", "prolog", "HTML", "CSS"};
+  string[] technologies = {"Next.JS", "React", "TailwindCSS", "Postgres", "SpringBoot", "Maven"};
   
 }
 ```
