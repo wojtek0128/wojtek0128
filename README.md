@@ -1,16 +1,14 @@
-### Hi there 👋
+Hey there! 👋
 
-<!--
-**wojtek0128/wojtek0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+public class AboutMe {
+  string firstName = "Wojtek";
+  string lastName = "Rosiak";
+  string email = "wojtekrosiak@outlook.com"
 
-Here are some ideas to get you started:
+  string[] languages = {"java", "python", "javascript", "c", "prolog"};
+  
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like programming and solving problems using the skills I've learnt, I am currently working on a project using Next.JS (TypeScript) and TailwindCSS. 🌱
